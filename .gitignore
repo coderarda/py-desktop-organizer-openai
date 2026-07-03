@@ -2,3 +2,4 @@
 .env
 Lib/*
 CACHEDIR.TAG
+pyvenv.cfg
