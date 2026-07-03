@@ -3,3 +3,4 @@
 Lib/*
 CACHEDIR.TAG
 pyvenv.cfg
+Scripts/*
